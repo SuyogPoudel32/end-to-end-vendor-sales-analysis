@@ -1,0 +1,1176 @@
+2026-05-30 08:45:41,822 - INFO - Data inserted successfully of file  begin_inventory.csv
+2026-05-30 08:45:50,739 - INFO - Data inserted successfully of file  end_inventory.csv
+2026-05-30 11:04:57,386 - INFO - Data inserted successfully of file  purchases
+2026-05-30 12:01:37,028 - INFO - Inserted up to row 10000 in sales
+2026-05-30 12:01:41,821 - INFO - Inserted up to row 20000 in sales
+2026-05-30 12:01:46,223 - INFO - Inserted up to row 30000 in sales
+2026-05-30 12:01:50,584 - INFO - Inserted up to row 40000 in sales
+2026-05-30 12:01:54,936 - INFO - Inserted up to row 50000 in sales
+2026-05-30 12:01:59,294 - INFO - Inserted up to row 60000 in sales
+2026-05-30 12:02:03,621 - INFO - Inserted up to row 70000 in sales
+2026-05-30 12:02:07,888 - INFO - Inserted up to row 80000 in sales
+2026-05-30 12:02:12,146 - INFO - Inserted up to row 90000 in sales
+2026-05-30 12:02:16,461 - INFO - Inserted up to row 100000 in sales
+2026-05-30 12:02:20,829 - INFO - Inserted up to row 110000 in sales
+2026-05-30 12:02:25,135 - INFO - Inserted up to row 120000 in sales
+2026-05-30 12:02:29,417 - INFO - Inserted up to row 130000 in sales
+2026-05-30 12:02:33,803 - INFO - Inserted up to row 140000 in sales
+2026-05-30 12:02:38,055 - INFO - Inserted up to row 150000 in sales
+2026-05-30 12:02:42,392 - INFO - Inserted up to row 160000 in sales
+2026-05-30 12:02:46,758 - INFO - Inserted up to row 170000 in sales
+2026-05-30 12:02:51,458 - INFO - Inserted up to row 180000 in sales
+2026-05-30 12:02:55,784 - INFO - Inserted up to row 190000 in sales
+2026-05-30 12:03:00,141 - INFO - Inserted up to row 200000 in sales
+2026-05-30 12:03:04,415 - INFO - Inserted up to row 210000 in sales
+2026-05-30 12:03:08,722 - INFO - Inserted up to row 220000 in sales
+2026-05-30 12:03:12,987 - INFO - Inserted up to row 230000 in sales
+2026-05-30 12:03:17,393 - INFO - Inserted up to row 240000 in sales
+2026-05-30 12:03:21,703 - INFO - Inserted up to row 250000 in sales
+2026-05-30 12:03:26,014 - INFO - Inserted up to row 260000 in sales
+2026-05-30 12:03:30,266 - INFO - Inserted up to row 270000 in sales
+2026-05-30 12:03:34,519 - INFO - Inserted up to row 280000 in sales
+2026-05-30 12:03:38,878 - INFO - Inserted up to row 290000 in sales
+2026-05-30 12:03:43,181 - INFO - Inserted up to row 300000 in sales
+2026-05-30 12:03:47,467 - INFO - Inserted up to row 310000 in sales
+2026-05-30 12:03:51,825 - INFO - Inserted up to row 320000 in sales
+2026-05-30 12:03:56,153 - INFO - Inserted up to row 330000 in sales
+2026-05-30 12:04:00,423 - INFO - Inserted up to row 340000 in sales
+2026-05-30 12:04:04,702 - INFO - Inserted up to row 350000 in sales
+2026-05-30 12:04:09,083 - INFO - Inserted up to row 360000 in sales
+2026-05-30 12:04:13,334 - INFO - Inserted up to row 370000 in sales
+2026-05-30 12:04:17,588 - INFO - Inserted up to row 380000 in sales
+2026-05-30 12:04:21,921 - INFO - Inserted up to row 390000 in sales
+2026-05-30 12:04:26,171 - INFO - Inserted up to row 400000 in sales
+2026-05-30 12:04:30,409 - INFO - Inserted up to row 410000 in sales
+2026-05-30 12:04:34,725 - INFO - Inserted up to row 420000 in sales
+2026-05-30 12:04:38,973 - INFO - Inserted up to row 430000 in sales
+2026-05-30 12:04:43,211 - INFO - Inserted up to row 440000 in sales
+2026-05-30 12:04:47,453 - INFO - Inserted up to row 450000 in sales
+2026-05-30 12:04:51,716 - INFO - Inserted up to row 460000 in sales
+2026-05-30 12:04:55,966 - INFO - Inserted up to row 470000 in sales
+2026-05-30 12:05:00,249 - INFO - Inserted up to row 480000 in sales
+2026-05-30 12:05:04,563 - INFO - Inserted up to row 490000 in sales
+2026-05-30 12:05:08,829 - INFO - Inserted up to row 500000 in sales
+2026-05-30 12:05:13,111 - INFO - Inserted up to row 510000 in sales
+2026-05-30 12:05:17,364 - INFO - Inserted up to row 520000 in sales
+2026-05-30 12:05:21,601 - INFO - Inserted up to row 530000 in sales
+2026-05-30 12:05:25,888 - INFO - Inserted up to row 540000 in sales
+2026-05-30 12:05:30,188 - INFO - Inserted up to row 550000 in sales
+2026-05-30 12:05:34,503 - INFO - Inserted up to row 560000 in sales
+2026-05-30 12:05:38,773 - INFO - Inserted up to row 570000 in sales
+2026-05-30 12:05:43,025 - INFO - Inserted up to row 580000 in sales
+2026-05-30 12:05:47,295 - INFO - Inserted up to row 590000 in sales
+2026-05-30 12:05:51,546 - INFO - Inserted up to row 600000 in sales
+2026-05-30 12:05:55,827 - INFO - Inserted up to row 610000 in sales
+2026-05-30 12:06:00,253 - INFO - Inserted up to row 620000 in sales
+2026-05-30 12:06:04,532 - INFO - Inserted up to row 630000 in sales
+2026-05-30 12:06:08,795 - INFO - Inserted up to row 640000 in sales
+2026-05-30 12:06:13,180 - INFO - Inserted up to row 650000 in sales
+2026-05-30 12:06:17,477 - INFO - Inserted up to row 660000 in sales
+2026-05-30 12:06:21,789 - INFO - Inserted up to row 670000 in sales
+2026-05-30 12:06:26,086 - INFO - Inserted up to row 680000 in sales
+2026-05-30 12:06:30,385 - INFO - Inserted up to row 690000 in sales
+2026-05-30 12:06:34,731 - INFO - Inserted up to row 700000 in sales
+2026-05-30 12:06:38,993 - INFO - Inserted up to row 710000 in sales
+2026-05-30 12:06:43,291 - INFO - Inserted up to row 720000 in sales
+2026-05-30 12:06:47,558 - INFO - Inserted up to row 730000 in sales
+2026-05-30 12:06:51,824 - INFO - Inserted up to row 740000 in sales
+2026-05-30 12:06:56,136 - INFO - Inserted up to row 750000 in sales
+2026-05-30 12:07:00,419 - INFO - Inserted up to row 760000 in sales
+2026-05-30 12:07:04,671 - INFO - Inserted up to row 770000 in sales
+2026-05-30 12:07:08,918 - INFO - Inserted up to row 780000 in sales
+2026-05-30 12:07:13,234 - INFO - Inserted up to row 790000 in sales
+2026-05-30 12:07:17,526 - INFO - Inserted up to row 800000 in sales
+2026-05-30 12:07:21,812 - INFO - Inserted up to row 810000 in sales
+2026-05-30 12:07:26,110 - INFO - Inserted up to row 820000 in sales
+2026-05-30 12:07:30,454 - INFO - Inserted up to row 830000 in sales
+2026-05-30 12:07:34,764 - INFO - Inserted up to row 840000 in sales
+2026-05-30 12:07:39,062 - INFO - Inserted up to row 850000 in sales
+2026-05-30 12:07:43,341 - INFO - Inserted up to row 860000 in sales
+2026-05-30 12:07:47,642 - INFO - Inserted up to row 870000 in sales
+2026-05-30 12:07:51,908 - INFO - Inserted up to row 880000 in sales
+2026-05-30 12:07:56,192 - INFO - Inserted up to row 890000 in sales
+2026-05-30 12:08:00,519 - INFO - Inserted up to row 900000 in sales
+2026-05-30 12:08:04,830 - INFO - Inserted up to row 910000 in sales
+2026-05-30 12:08:09,142 - INFO - Inserted up to row 920000 in sales
+2026-05-30 12:08:13,412 - INFO - Inserted up to row 930000 in sales
+2026-05-30 12:08:17,705 - INFO - Inserted up to row 940000 in sales
+2026-05-30 12:08:22,018 - INFO - Inserted up to row 950000 in sales
+2026-05-30 12:08:26,315 - INFO - Inserted up to row 960000 in sales
+2026-05-30 12:08:30,542 - INFO - Inserted up to row 970000 in sales
+2026-05-30 12:08:34,894 - INFO - Inserted up to row 980000 in sales
+2026-05-30 12:08:39,208 - INFO - Inserted up to row 990000 in sales
+2026-05-30 12:08:43,505 - INFO - Inserted up to row 1000000 in sales
+2026-05-30 12:08:47,798 - INFO - Inserted up to row 1010000 in sales
+2026-05-30 12:08:52,057 - INFO - Inserted up to row 1020000 in sales
+2026-05-30 12:08:56,374 - INFO - Inserted up to row 1030000 in sales
+2026-05-30 12:09:00,657 - INFO - Inserted up to row 1040000 in sales
+2026-05-30 12:09:04,974 - INFO - Inserted up to row 1050000 in sales
+2026-05-30 12:09:09,256 - INFO - Inserted up to row 1060000 in sales
+2026-05-30 12:09:13,539 - INFO - Inserted up to row 1070000 in sales
+2026-05-30 12:09:17,865 - INFO - Inserted up to row 1080000 in sales
+2026-05-30 12:09:22,174 - INFO - Inserted up to row 1090000 in sales
+2026-05-30 12:09:26,752 - INFO - Inserted up to row 1100000 in sales
+2026-05-30 12:09:31,151 - INFO - Inserted up to row 1110000 in sales
+2026-05-30 12:09:35,519 - INFO - Inserted up to row 1120000 in sales
+2026-05-30 12:09:39,757 - INFO - Inserted up to row 1130000 in sales
+2026-05-30 12:09:44,038 - INFO - Inserted up to row 1140000 in sales
+2026-05-30 12:09:48,345 - INFO - Inserted up to row 1150000 in sales
+2026-05-30 12:09:52,631 - INFO - Inserted up to row 1160000 in sales
+2026-05-30 12:09:56,913 - INFO - Inserted up to row 1170000 in sales
+2026-05-30 12:10:01,210 - INFO - Inserted up to row 1180000 in sales
+2026-05-30 12:10:05,576 - INFO - Inserted up to row 1190000 in sales
+2026-05-30 12:10:09,879 - INFO - Inserted up to row 1200000 in sales
+2026-05-30 12:10:14,163 - INFO - Inserted up to row 1210000 in sales
+2026-05-30 12:10:18,446 - INFO - Inserted up to row 1220000 in sales
+2026-05-30 12:10:22,752 - INFO - Inserted up to row 1230000 in sales
+2026-05-30 12:10:26,993 - INFO - Inserted up to row 1240000 in sales
+2026-05-30 12:10:31,246 - INFO - Inserted up to row 1250000 in sales
+2026-05-30 12:10:35,496 - INFO - Inserted up to row 1260000 in sales
+2026-05-30 12:10:39,904 - INFO - Inserted up to row 1270000 in sales
+2026-05-30 12:10:44,196 - INFO - Inserted up to row 1280000 in sales
+2026-05-30 12:10:48,434 - INFO - Inserted up to row 1290000 in sales
+2026-05-30 12:10:52,826 - INFO - Inserted up to row 1300000 in sales
+2026-05-30 12:10:57,156 - INFO - Inserted up to row 1310000 in sales
+2026-05-30 12:11:01,444 - INFO - Inserted up to row 1320000 in sales
+2026-05-30 12:11:05,716 - INFO - Inserted up to row 1330000 in sales
+2026-05-30 12:11:09,978 - INFO - Inserted up to row 1340000 in sales
+2026-05-30 12:11:14,322 - INFO - Inserted up to row 1350000 in sales
+2026-05-30 12:11:18,634 - INFO - Inserted up to row 1360000 in sales
+2026-05-30 12:11:22,915 - INFO - Inserted up to row 1370000 in sales
+2026-05-30 12:11:27,209 - INFO - Inserted up to row 1380000 in sales
+2026-05-30 12:11:31,480 - INFO - Inserted up to row 1390000 in sales
+2026-05-30 12:11:35,791 - INFO - Inserted up to row 1400000 in sales
+2026-05-30 12:11:40,058 - INFO - Inserted up to row 1410000 in sales
+2026-05-30 12:11:44,314 - INFO - Inserted up to row 1420000 in sales
+2026-05-30 12:11:48,624 - INFO - Inserted up to row 1430000 in sales
+2026-05-30 12:11:52,935 - INFO - Inserted up to row 1440000 in sales
+2026-05-30 12:11:57,204 - INFO - Inserted up to row 1450000 in sales
+2026-05-30 12:12:01,467 - INFO - Inserted up to row 1460000 in sales
+2026-05-30 12:12:05,764 - INFO - Inserted up to row 1470000 in sales
+2026-05-30 12:12:10,048 - INFO - Inserted up to row 1480000 in sales
+2026-05-30 12:12:14,320 - INFO - Inserted up to row 1490000 in sales
+2026-05-30 12:12:18,586 - INFO - Inserted up to row 1500000 in sales
+2026-05-30 12:12:22,924 - INFO - Inserted up to row 1510000 in sales
+2026-05-30 12:12:27,218 - INFO - Inserted up to row 1520000 in sales
+2026-05-30 12:12:31,475 - INFO - Inserted up to row 1530000 in sales
+2026-05-30 12:12:35,753 - INFO - Inserted up to row 1540000 in sales
+2026-05-30 12:12:40,029 - INFO - Inserted up to row 1550000 in sales
+2026-05-30 12:12:44,330 - INFO - Inserted up to row 1560000 in sales
+2026-05-30 12:12:48,661 - INFO - Inserted up to row 1570000 in sales
+2026-05-30 12:12:52,944 - INFO - Inserted up to row 1580000 in sales
+2026-05-30 12:12:57,227 - INFO - Inserted up to row 1590000 in sales
+2026-05-30 12:13:01,569 - INFO - Inserted up to row 1600000 in sales
+2026-05-30 12:13:05,926 - INFO - Inserted up to row 1610000 in sales
+2026-05-30 12:13:10,301 - INFO - Inserted up to row 1620000 in sales
+2026-05-30 12:13:14,587 - INFO - Inserted up to row 1630000 in sales
+2026-05-30 12:13:18,879 - INFO - Inserted up to row 1640000 in sales
+2026-05-30 12:13:23,220 - INFO - Inserted up to row 1650000 in sales
+2026-05-30 12:13:27,734 - INFO - Inserted up to row 1660000 in sales
+2026-05-30 12:13:32,494 - INFO - Inserted up to row 1670000 in sales
+2026-05-30 12:13:36,934 - INFO - Inserted up to row 1680000 in sales
+2026-05-30 12:13:41,201 - INFO - Inserted up to row 1690000 in sales
+2026-05-30 12:13:45,589 - INFO - Inserted up to row 1700000 in sales
+2026-05-30 12:13:49,884 - INFO - Inserted up to row 1710000 in sales
+2026-05-30 12:13:54,167 - INFO - Inserted up to row 1720000 in sales
+2026-05-30 12:13:58,404 - INFO - Inserted up to row 1730000 in sales
+2026-05-30 12:14:02,698 - INFO - Inserted up to row 1740000 in sales
+2026-05-30 12:14:07,139 - INFO - Inserted up to row 1750000 in sales
+2026-05-30 12:14:11,401 - INFO - Inserted up to row 1760000 in sales
+2026-05-30 12:14:15,816 - INFO - Inserted up to row 1770000 in sales
+2026-05-30 12:14:20,271 - INFO - Inserted up to row 1780000 in sales
+2026-05-30 12:14:24,801 - INFO - Inserted up to row 1790000 in sales
+2026-05-30 12:14:29,085 - INFO - Inserted up to row 1800000 in sales
+2026-05-30 12:14:33,424 - INFO - Inserted up to row 1810000 in sales
+2026-05-30 12:14:37,828 - INFO - Inserted up to row 1820000 in sales
+2026-05-30 12:14:42,133 - INFO - Inserted up to row 1830000 in sales
+2026-05-30 12:14:46,497 - INFO - Inserted up to row 1840000 in sales
+2026-05-30 12:14:51,062 - INFO - Inserted up to row 1850000 in sales
+2026-05-30 12:14:55,995 - INFO - Inserted up to row 1860000 in sales
+2026-05-30 12:15:00,797 - INFO - Inserted up to row 1870000 in sales
+2026-05-30 12:15:05,181 - INFO - Inserted up to row 1880000 in sales
+2026-05-30 12:15:09,865 - INFO - Inserted up to row 1890000 in sales
+2026-05-30 12:15:14,332 - INFO - Inserted up to row 1900000 in sales
+2026-05-30 12:15:18,910 - INFO - Inserted up to row 1910000 in sales
+2026-05-30 12:15:23,259 - INFO - Inserted up to row 1920000 in sales
+2026-05-30 12:15:27,582 - INFO - Inserted up to row 1930000 in sales
+2026-05-30 12:15:31,921 - INFO - Inserted up to row 1940000 in sales
+2026-05-30 12:15:36,408 - INFO - Inserted up to row 1950000 in sales
+2026-05-30 12:15:41,150 - INFO - Inserted up to row 1960000 in sales
+2026-05-30 12:15:45,788 - INFO - Inserted up to row 1970000 in sales
+2026-05-30 12:15:50,236 - INFO - Inserted up to row 1980000 in sales
+2026-05-30 12:15:54,600 - INFO - Inserted up to row 1990000 in sales
+2026-05-30 12:15:59,011 - INFO - Inserted up to row 2000000 in sales
+2026-05-30 12:16:03,377 - INFO - Inserted up to row 2010000 in sales
+2026-05-30 12:16:07,781 - INFO - Inserted up to row 2020000 in sales
+2026-05-30 12:16:12,095 - INFO - Inserted up to row 2030000 in sales
+2026-05-30 12:16:16,629 - INFO - Inserted up to row 2040000 in sales
+2026-05-30 12:16:21,024 - INFO - Inserted up to row 2050000 in sales
+2026-05-30 12:16:25,518 - INFO - Inserted up to row 2060000 in sales
+2026-05-30 12:16:30,099 - INFO - Inserted up to row 2070000 in sales
+2026-05-30 12:16:34,492 - INFO - Inserted up to row 2080000 in sales
+2026-05-30 12:16:38,907 - INFO - Inserted up to row 2090000 in sales
+2026-05-30 12:16:43,304 - INFO - Inserted up to row 2100000 in sales
+2026-05-30 12:16:47,684 - INFO - Inserted up to row 2110000 in sales
+2026-05-30 12:25:50,968 - ERROR - Exception during reset or similar
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2366, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 159, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn = self._get_db()
+           ^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 71, in _get_db
+    def _get_db(self):
+    
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 373, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 718, in do_terminate
+    self.do_close(dbapi_connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 721, in do_close
+    dbapi_connection.close()
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 437, in close
+    self._write_bytes(send_data)
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 834, in _write_bytes
+    self._sock.sendall(data)
+  File "E:\anaconda3\Lib\ssl.py", line 1210, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\ssl.py", line 1179, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 2037, in to_sql
+    total_inserted = sql_engine.insert_records(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1571, in insert_records
+    return table.insert(chunksize=chunksize, method=method)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1122, in insert
+    num_inserted = exec_insert(conn, keys, chunk_iter)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1031, in _execute_insert_multi
+    result = self.pd_sql.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1679, in execute
+    return execute_function(sql, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2376, in _handle_dbapi_exception
+    self.invalidate(e)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 747, in invalidate
+    pool_proxied_connection.invalidate(exception)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 1483, in invalidate
+    self._connection_record.invalidate(e=e, soft=soft)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 816, in invalidate
+    self.__close(terminate=True)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 883, in __close
+    self.__pool._close_connection(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 377, in _close_connection
+    self.logger.error(
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1684, in _log
+    self.handle(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1028, in handle
+    self.emit(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1280, in emit
+    StreamHandler.emit(self, record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1160, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 999, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 711, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 661, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+  File "E:\anaconda3\Lib\traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\traceback.py", line 733, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\traceback.py", line 438, in _extract_from_extended_frame_gen
+    f.line
+  File "E:\anaconda3\Lib\traceback.py", line 323, in line
+    self._line = linecache.getline(self.filename, self.lineno)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 30, in getline
+    lines = getlines(filename, module_globals)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 46, in getlines
+    return updatecache(filename, module_globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 93, in updatecache
+    stat = os.stat(fullname)
+           ^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 986, in _finalize_fairy
+    fairy._reset(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 1441, in _reset
+    pool._dialect.do_rollback(self)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 712, in do_rollback
+    dbapi_connection.rollback()
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 511, in rollback
+    self._execute_command(COMMAND.COM_QUERY, "ROLLBACK")
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 865, in _execute_command
+    raise err.InterfaceError(0, "")
+pymysql.err.InterfaceError: (0, '')
+2026-05-30 12:25:55,640 - ERROR - Exception terminating connection <pymysql.connections.Connection object at 0x000001DDE8EDFB30>
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2366, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 159, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn = self._get_db()
+           ^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pymysql\cursors.py", line 71, in _get_db
+    def _get_db(self):
+    
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 373, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 718, in do_terminate
+    self.do_close(dbapi_connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 721, in do_close
+    dbapi_connection.close()
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 437, in close
+    self._write_bytes(send_data)
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 834, in _write_bytes
+    self._sock.sendall(data)
+  File "E:\anaconda3\Lib\ssl.py", line 1210, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\ssl.py", line 1179, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 2037, in to_sql
+    total_inserted = sql_engine.insert_records(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1571, in insert_records
+    return table.insert(chunksize=chunksize, method=method)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1122, in insert
+    num_inserted = exec_insert(conn, keys, chunk_iter)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1031, in _execute_insert_multi
+    result = self.pd_sql.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1679, in execute
+    return execute_function(sql, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2376, in _handle_dbapi_exception
+    self.invalidate(e)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 747, in invalidate
+    pool_proxied_connection.invalidate(exception)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 1483, in invalidate
+    self._connection_record.invalidate(e=e, soft=soft)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 816, in invalidate
+    self.__close(terminate=True)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 883, in __close
+    self.__pool._close_connection(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 377, in _close_connection
+    self.logger.error(
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1684, in _log
+    self.handle(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1028, in handle
+    self.emit(record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1280, in emit
+    StreamHandler.emit(self, record)
+  File "E:\anaconda3\Lib\logging\__init__.py", line 1160, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 999, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 711, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\logging\__init__.py", line 661, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+  File "E:\anaconda3\Lib\traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\traceback.py", line 733, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\traceback.py", line 438, in _extract_from_extended_frame_gen
+    f.line
+  File "E:\anaconda3\Lib\traceback.py", line 323, in line
+    self._line = linecache.getline(self.filename, self.lineno)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 30, in getline
+    lines = getlines(filename, module_globals)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 46, in getlines
+    return updatecache(filename, module_globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\linecache.py", line 93, in updatecache
+    stat = os.stat(fullname)
+           ^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 986, in _finalize_fairy
+    fairy._reset(
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 1441, in _reset
+    pool._dialect.do_rollback(self)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 712, in do_rollback
+    dbapi_connection.rollback()
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 511, in rollback
+    self._execute_command(COMMAND.COM_QUERY, "ROLLBACK")
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 865, in _execute_command
+    raise err.InterfaceError(0, "")
+pymysql.err.InterfaceError: (0, '')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\pool\base.py", line 373, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 718, in do_terminate
+    self.do_close(dbapi_connection)
+  File "E:\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 721, in do_close
+    dbapi_connection.close()
+  File "E:\anaconda3\Lib\site-packages\pymysql\connections.py", line 431, in close
+    raise err.Error("Already closed")
+pymysql.err.Error: Already closed
+2026-05-30 12:35:17,900 - INFO - Inserted up to row 20000 in sales
+2026-05-30 12:35:30,706 - INFO - Inserted up to row 40000 in sales
+2026-05-30 12:35:41,276 - INFO - Inserted up to row 60000 in sales
+2026-05-30 12:37:08,862 - INFO - Inserted up to row 20000 in sales
+2026-05-30 12:37:15,092 - INFO - Inserted up to row 40000 in sales
+2026-05-30 12:37:21,113 - INFO - Inserted up to row 60000 in sales
+2026-05-30 12:37:27,440 - INFO - Inserted up to row 80000 in sales
+2026-05-30 12:37:33,638 - INFO - Inserted up to row 100000 in sales
+2026-05-30 12:37:40,063 - INFO - Inserted up to row 120000 in sales
+2026-05-30 12:37:46,067 - INFO - Inserted up to row 140000 in sales
+2026-05-30 12:37:52,203 - INFO - Inserted up to row 160000 in sales
+2026-05-30 12:37:58,227 - INFO - Inserted up to row 180000 in sales
+2026-05-30 12:38:04,437 - INFO - Inserted up to row 200000 in sales
+2026-05-30 12:38:10,516 - INFO - Inserted up to row 220000 in sales
+2026-05-30 12:38:16,646 - INFO - Inserted up to row 240000 in sales
+2026-05-30 12:38:22,853 - INFO - Inserted up to row 260000 in sales
+2026-05-30 12:38:28,813 - INFO - Inserted up to row 280000 in sales
+2026-05-30 12:38:34,876 - INFO - Inserted up to row 300000 in sales
+2026-05-30 12:38:41,113 - INFO - Inserted up to row 320000 in sales
+2026-05-30 12:38:47,167 - INFO - Inserted up to row 340000 in sales
+2026-05-30 12:38:53,221 - INFO - Inserted up to row 360000 in sales
+2026-05-30 12:38:59,385 - INFO - Inserted up to row 380000 in sales
+2026-05-30 12:39:05,448 - INFO - Inserted up to row 400000 in sales
+2026-05-30 12:39:11,474 - INFO - Inserted up to row 420000 in sales
+2026-05-30 12:39:17,801 - INFO - Inserted up to row 440000 in sales
+2026-05-30 12:39:23,879 - INFO - Inserted up to row 460000 in sales
+2026-05-30 12:39:29,887 - INFO - Inserted up to row 480000 in sales
+2026-05-30 12:39:36,016 - INFO - Inserted up to row 500000 in sales
+2026-05-30 12:39:42,080 - INFO - Inserted up to row 520000 in sales
+2026-05-30 12:39:48,027 - INFO - Inserted up to row 540000 in sales
+2026-05-30 12:39:54,187 - INFO - Inserted up to row 560000 in sales
+2026-05-30 12:40:00,151 - INFO - Inserted up to row 580000 in sales
+2026-05-30 12:40:06,159 - INFO - Inserted up to row 600000 in sales
+2026-05-30 12:40:12,376 - INFO - Inserted up to row 620000 in sales
+2026-05-30 12:40:18,514 - INFO - Inserted up to row 640000 in sales
+2026-05-30 12:40:24,443 - INFO - Inserted up to row 660000 in sales
+2026-05-30 12:40:30,463 - INFO - Inserted up to row 680000 in sales
+2026-05-30 12:40:36,618 - INFO - Inserted up to row 700000 in sales
+2026-05-30 12:40:42,605 - INFO - Inserted up to row 720000 in sales
+2026-05-30 12:40:48,759 - INFO - Inserted up to row 740000 in sales
+2026-05-30 12:40:54,750 - INFO - Inserted up to row 760000 in sales
+2026-05-30 12:41:00,696 - INFO - Inserted up to row 780000 in sales
+2026-05-30 12:41:06,825 - INFO - Inserted up to row 800000 in sales
+2026-05-30 12:41:12,773 - INFO - Inserted up to row 820000 in sales
+2026-05-30 12:41:18,887 - INFO - Inserted up to row 840000 in sales
+2026-05-30 12:41:25,122 - INFO - Inserted up to row 860000 in sales
+2026-05-30 12:41:31,133 - INFO - Inserted up to row 880000 in sales
+2026-05-30 12:41:37,098 - INFO - Inserted up to row 900000 in sales
+2026-05-30 12:41:43,197 - INFO - Inserted up to row 920000 in sales
+2026-05-30 12:41:49,307 - INFO - Inserted up to row 940000 in sales
+2026-05-30 12:41:55,248 - INFO - Inserted up to row 960000 in sales
+2026-05-30 12:42:01,496 - INFO - Inserted up to row 980000 in sales
+2026-05-30 12:42:07,558 - INFO - Inserted up to row 1000000 in sales
+2026-05-30 12:42:13,683 - INFO - Inserted up to row 1020000 in sales
+2026-05-30 12:42:19,837 - INFO - Inserted up to row 1040000 in sales
+2026-05-30 12:42:26,036 - INFO - Inserted up to row 1060000 in sales
+2026-05-30 12:42:31,994 - INFO - Inserted up to row 1080000 in sales
+2026-05-30 12:42:38,059 - INFO - Inserted up to row 1100000 in sales
+2026-05-30 12:42:44,301 - INFO - Inserted up to row 1120000 in sales
+2026-05-30 12:42:51,026 - INFO - Inserted up to row 1140000 in sales
+2026-05-30 12:42:57,148 - INFO - Inserted up to row 1160000 in sales
+2026-05-30 12:43:04,351 - INFO - Inserted up to row 1180000 in sales
+2026-05-30 12:43:10,413 - INFO - Inserted up to row 1200000 in sales
+2026-05-30 12:43:16,477 - INFO - Inserted up to row 1220000 in sales
+2026-05-30 12:43:22,451 - INFO - Inserted up to row 1240000 in sales
+2026-05-30 12:43:28,593 - INFO - Inserted up to row 1260000 in sales
+2026-05-30 12:43:34,624 - INFO - Inserted up to row 1280000 in sales
+2026-05-30 12:43:40,901 - INFO - Inserted up to row 1300000 in sales
+2026-05-30 12:43:47,117 - INFO - Inserted up to row 1320000 in sales
+2026-05-30 12:43:53,291 - INFO - Inserted up to row 1340000 in sales
+2026-05-30 12:43:59,306 - INFO - Inserted up to row 1360000 in sales
+2026-05-30 12:44:05,406 - INFO - Inserted up to row 1380000 in sales
+2026-05-30 12:44:11,544 - INFO - Inserted up to row 1400000 in sales
+2026-05-30 12:44:17,754 - INFO - Inserted up to row 1420000 in sales
+2026-05-30 12:44:23,777 - INFO - Inserted up to row 1440000 in sales
+2026-05-30 12:44:31,036 - INFO - Inserted up to row 1460000 in sales
+2026-05-30 12:44:37,161 - INFO - Inserted up to row 1480000 in sales
+2026-05-30 12:44:43,563 - INFO - Inserted up to row 1500000 in sales
+2026-05-30 12:44:49,660 - INFO - Inserted up to row 1520000 in sales
+2026-05-30 12:44:55,671 - INFO - Inserted up to row 1540000 in sales
+2026-05-30 12:45:02,005 - INFO - Inserted up to row 1560000 in sales
+2026-05-30 12:45:08,013 - INFO - Inserted up to row 1580000 in sales
+2026-05-30 12:45:14,063 - INFO - Inserted up to row 1600000 in sales
+2026-05-30 12:45:20,160 - INFO - Inserted up to row 1620000 in sales
+2026-05-30 12:45:26,275 - INFO - Inserted up to row 1640000 in sales
+2026-05-30 12:45:32,264 - INFO - Inserted up to row 1660000 in sales
+2026-05-30 12:45:38,438 - INFO - Inserted up to row 1680000 in sales
+2026-05-30 12:45:44,505 - INFO - Inserted up to row 1700000 in sales
+2026-05-30 12:45:50,709 - INFO - Inserted up to row 1720000 in sales
+2026-05-30 12:45:56,817 - INFO - Inserted up to row 1740000 in sales
+2026-05-30 12:46:02,841 - INFO - Inserted up to row 1760000 in sales
+2026-05-30 12:46:08,930 - INFO - Inserted up to row 1780000 in sales
+2026-05-30 12:46:15,065 - INFO - Inserted up to row 1800000 in sales
+2026-05-30 12:46:21,153 - INFO - Inserted up to row 1820000 in sales
+2026-05-30 12:46:28,120 - INFO - Inserted up to row 1840000 in sales
+2026-05-30 12:46:34,245 - INFO - Inserted up to row 1860000 in sales
+2026-05-30 12:46:40,305 - INFO - Inserted up to row 1880000 in sales
+2026-05-30 12:46:46,551 - INFO - Inserted up to row 1900000 in sales
+2026-05-30 12:46:53,063 - INFO - Inserted up to row 1920000 in sales
+2026-05-30 12:46:59,307 - INFO - Inserted up to row 1940000 in sales
+2026-05-30 12:47:05,587 - INFO - Inserted up to row 1960000 in sales
+2026-05-30 12:47:12,528 - INFO - Inserted up to row 1980000 in sales
+2026-05-30 12:47:19,079 - INFO - Inserted up to row 2000000 in sales
+2026-05-30 12:47:25,413 - INFO - Inserted up to row 2020000 in sales
+2026-05-30 12:47:31,870 - INFO - Inserted up to row 2040000 in sales
+2026-05-30 12:47:38,297 - INFO - Inserted up to row 2060000 in sales
+2026-05-30 12:47:44,663 - INFO - Inserted up to row 2080000 in sales
+2026-05-30 12:47:50,879 - INFO - Inserted up to row 2100000 in sales
+2026-05-30 12:47:57,300 - INFO - Inserted up to row 2120000 in sales
+2026-05-30 12:48:04,967 - INFO - Inserted up to row 2140000 in sales
+2026-05-30 12:48:11,241 - INFO - Inserted up to row 2160000 in sales
+2026-05-30 12:48:17,454 - INFO - Inserted up to row 2180000 in sales
+2026-05-30 12:48:24,390 - INFO - Inserted up to row 2200000 in sales
+2026-05-30 12:48:30,425 - INFO - Inserted up to row 2220000 in sales
+2026-05-30 12:48:36,701 - INFO - Inserted up to row 2240000 in sales
+2026-05-30 12:48:42,792 - INFO - Inserted up to row 2260000 in sales
+2026-05-30 12:48:48,965 - INFO - Inserted up to row 2280000 in sales
+2026-05-30 12:48:55,064 - INFO - Inserted up to row 2300000 in sales
+2026-05-30 12:49:01,179 - INFO - Inserted up to row 2320000 in sales
+2026-05-30 12:49:07,461 - INFO - Inserted up to row 2340000 in sales
+2026-05-30 12:49:13,570 - INFO - Inserted up to row 2360000 in sales
+2026-05-30 12:49:19,723 - INFO - Inserted up to row 2380000 in sales
+2026-05-30 12:49:25,712 - INFO - Inserted up to row 2400000 in sales
+2026-05-30 12:49:31,837 - INFO - Inserted up to row 2420000 in sales
+2026-05-30 12:49:37,992 - INFO - Inserted up to row 2440000 in sales
+2026-05-30 12:49:44,011 - INFO - Inserted up to row 2460000 in sales
+2026-05-30 12:49:50,103 - INFO - Inserted up to row 2480000 in sales
+2026-05-30 12:49:56,140 - INFO - Inserted up to row 2500000 in sales
+2026-05-30 12:50:02,204 - INFO - Inserted up to row 2520000 in sales
+2026-05-30 12:50:08,445 - INFO - Inserted up to row 2540000 in sales
+2026-05-30 12:50:14,553 - INFO - Inserted up to row 2560000 in sales
+2026-05-30 12:50:20,677 - INFO - Inserted up to row 2580000 in sales
+2026-05-30 12:50:26,920 - INFO - Inserted up to row 2600000 in sales
+2026-05-30 12:50:33,068 - INFO - Inserted up to row 2620000 in sales
+2026-05-30 12:50:39,259 - INFO - Inserted up to row 2640000 in sales
+2026-05-30 12:50:45,380 - INFO - Inserted up to row 2660000 in sales
+2026-05-30 12:50:51,489 - INFO - Inserted up to row 2680000 in sales
+2026-05-30 12:50:57,749 - INFO - Inserted up to row 2700000 in sales
+2026-05-30 12:51:04,082 - INFO - Inserted up to row 2720000 in sales
+2026-05-30 12:51:10,459 - INFO - Inserted up to row 2740000 in sales
+2026-05-30 12:51:17,965 - INFO - Inserted up to row 2760000 in sales
+2026-05-30 12:51:24,075 - INFO - Inserted up to row 2780000 in sales
+2026-05-30 12:51:30,143 - INFO - Inserted up to row 2800000 in sales
+2026-05-30 12:51:36,277 - INFO - Inserted up to row 2820000 in sales
+2026-05-30 12:51:42,350 - INFO - Inserted up to row 2840000 in sales
+2026-05-30 12:51:48,444 - INFO - Inserted up to row 2860000 in sales
+2026-05-30 12:51:54,389 - INFO - Inserted up to row 2880000 in sales
+2026-05-30 12:52:00,650 - INFO - Inserted up to row 2900000 in sales
+2026-05-30 12:52:06,673 - INFO - Inserted up to row 2920000 in sales
+2026-05-30 12:52:12,645 - INFO - Inserted up to row 2940000 in sales
+2026-05-30 12:52:19,003 - INFO - Inserted up to row 2960000 in sales
+2026-05-30 12:52:25,242 - INFO - Inserted up to row 2980000 in sales
+2026-05-30 12:52:31,535 - INFO - Inserted up to row 3000000 in sales
+2026-05-30 12:52:37,810 - INFO - Inserted up to row 3020000 in sales
+2026-05-30 12:52:43,917 - INFO - Inserted up to row 3040000 in sales
+2026-05-30 12:52:50,057 - INFO - Inserted up to row 3060000 in sales
+2026-05-30 12:52:56,281 - INFO - Inserted up to row 3080000 in sales
+2026-05-30 12:53:02,544 - INFO - Inserted up to row 3100000 in sales
+2026-05-30 12:53:08,652 - INFO - Inserted up to row 3120000 in sales
+2026-05-30 12:53:15,204 - INFO - Inserted up to row 3140000 in sales
+2026-05-30 12:53:21,589 - INFO - Inserted up to row 3160000 in sales
+2026-05-30 12:53:28,102 - INFO - Inserted up to row 3180000 in sales
+2026-05-30 12:53:34,390 - INFO - Inserted up to row 3200000 in sales
+2026-05-30 12:53:41,321 - INFO - Inserted up to row 3220000 in sales
+2026-05-30 12:53:47,940 - INFO - Inserted up to row 3240000 in sales
+2026-05-30 12:54:05,653 - INFO - Inserted up to row 3260000 in sales
+2026-05-30 12:54:12,685 - INFO - Inserted up to row 3280000 in sales
+2026-05-30 12:54:19,013 - INFO - Inserted up to row 3300000 in sales
+2026-05-30 12:54:25,400 - INFO - Inserted up to row 3320000 in sales
+2026-05-30 12:54:31,510 - INFO - Inserted up to row 3340000 in sales
+2026-05-30 12:54:38,636 - INFO - Inserted up to row 3360000 in sales
+2026-05-30 12:54:44,878 - INFO - Inserted up to row 3380000 in sales
+2026-05-30 12:54:51,188 - INFO - Inserted up to row 3400000 in sales
+2026-05-30 12:54:57,195 - INFO - Inserted up to row 3420000 in sales
+2026-05-30 12:55:03,460 - INFO - Inserted up to row 3440000 in sales
+2026-05-30 12:55:09,510 - INFO - Inserted up to row 3460000 in sales
+2026-05-30 12:55:16,861 - INFO - Inserted up to row 3480000 in sales
+2026-05-30 12:55:23,000 - INFO - Inserted up to row 3500000 in sales
+2026-05-30 12:55:29,140 - INFO - Inserted up to row 3520000 in sales
+2026-05-30 12:55:35,144 - INFO - Inserted up to row 3540000 in sales
+2026-05-30 12:55:41,192 - INFO - Inserted up to row 3560000 in sales
+2026-05-30 12:55:47,379 - INFO - Inserted up to row 3580000 in sales
+2026-05-30 12:55:53,529 - INFO - Inserted up to row 3600000 in sales
+2026-05-30 12:55:59,657 - INFO - Inserted up to row 3620000 in sales
+2026-05-30 12:56:05,754 - INFO - Inserted up to row 3640000 in sales
+2026-05-30 12:56:11,721 - INFO - Inserted up to row 3660000 in sales
+2026-05-30 12:56:17,849 - INFO - Inserted up to row 3680000 in sales
+2026-05-30 12:56:24,009 - INFO - Inserted up to row 3700000 in sales
+2026-05-30 12:56:30,050 - INFO - Inserted up to row 3720000 in sales
+2026-05-30 12:56:36,149 - INFO - Inserted up to row 3740000 in sales
+2026-05-30 12:56:42,323 - INFO - Inserted up to row 3760000 in sales
+2026-05-30 12:56:48,432 - INFO - Inserted up to row 3780000 in sales
+2026-05-30 12:56:54,587 - INFO - Inserted up to row 3800000 in sales
+2026-05-30 12:57:00,559 - INFO - Inserted up to row 3820000 in sales
+2026-05-30 12:57:06,699 - INFO - Inserted up to row 3840000 in sales
+2026-05-30 12:57:13,027 - INFO - Inserted up to row 3860000 in sales
+2026-05-30 12:57:19,053 - INFO - Inserted up to row 3880000 in sales
+2026-05-30 12:57:25,160 - INFO - Inserted up to row 3900000 in sales
+2026-05-30 12:57:32,557 - INFO - Inserted up to row 3920000 in sales
+2026-05-30 12:57:38,723 - INFO - Inserted up to row 3940000 in sales
+2026-05-30 12:57:44,995 - INFO - Inserted up to row 3960000 in sales
+2026-05-30 12:57:51,110 - INFO - Inserted up to row 3980000 in sales
+2026-05-30 12:57:57,104 - INFO - Inserted up to row 4000000 in sales
+2026-05-30 12:58:03,294 - INFO - Inserted up to row 4020000 in sales
+2026-05-30 12:58:09,298 - INFO - Inserted up to row 4040000 in sales
+2026-05-30 12:58:16,410 - INFO - Inserted up to row 4060000 in sales
+2026-05-30 12:58:22,639 - INFO - Inserted up to row 4080000 in sales
+2026-05-30 12:58:28,842 - INFO - Inserted up to row 4100000 in sales
+2026-05-30 12:58:34,987 - INFO - Inserted up to row 4120000 in sales
+2026-05-30 12:58:41,428 - INFO - Inserted up to row 4140000 in sales
+2026-05-30 12:58:47,824 - INFO - Inserted up to row 4160000 in sales
+2026-05-30 12:58:53,963 - INFO - Inserted up to row 4180000 in sales
+2026-05-30 12:59:00,040 - INFO - Inserted up to row 4200000 in sales
+2026-05-30 12:59:06,210 - INFO - Inserted up to row 4220000 in sales
+2026-05-30 12:59:12,438 - INFO - Inserted up to row 4240000 in sales
+2026-05-30 12:59:18,411 - INFO - Inserted up to row 4260000 in sales
+2026-05-30 12:59:24,475 - INFO - Inserted up to row 4280000 in sales
+2026-05-30 12:59:30,675 - INFO - Inserted up to row 4300000 in sales
+2026-05-30 12:59:36,707 - INFO - Inserted up to row 4320000 in sales
+2026-05-30 12:59:42,670 - INFO - Inserted up to row 4340000 in sales
+2026-05-30 12:59:50,136 - INFO - Inserted up to row 4360000 in sales
+2026-05-30 12:59:56,966 - INFO - Inserted up to row 4380000 in sales
+2026-05-30 13:00:03,216 - INFO - Inserted up to row 4400000 in sales
+2026-05-30 13:00:09,283 - INFO - Inserted up to row 4420000 in sales
+2026-05-30 13:00:15,427 - INFO - Inserted up to row 4440000 in sales
+2026-05-30 13:00:21,445 - INFO - Inserted up to row 4460000 in sales
+2026-05-30 13:00:27,465 - INFO - Inserted up to row 4480000 in sales
+2026-05-30 13:00:33,557 - INFO - Inserted up to row 4500000 in sales
+2026-05-30 13:00:39,697 - INFO - Inserted up to row 4520000 in sales
+2026-05-30 13:00:45,731 - INFO - Inserted up to row 4540000 in sales
+2026-05-30 13:00:51,936 - INFO - Inserted up to row 4560000 in sales
+2026-05-30 13:00:57,905 - INFO - Inserted up to row 4580000 in sales
+2026-05-30 13:01:03,923 - INFO - Inserted up to row 4600000 in sales
+2026-05-30 13:01:10,077 - INFO - Inserted up to row 4620000 in sales
+2026-05-30 13:01:16,220 - INFO - Inserted up to row 4640000 in sales
+2026-05-30 13:01:22,237 - INFO - Inserted up to row 4660000 in sales
+2026-05-30 13:01:28,357 - INFO - Inserted up to row 4680000 in sales
+2026-05-30 13:01:34,517 - INFO - Inserted up to row 4700000 in sales
+2026-05-30 13:01:40,735 - INFO - Inserted up to row 4720000 in sales
+2026-05-30 13:01:47,091 - INFO - Inserted up to row 4740000 in sales
+2026-05-30 13:01:53,105 - INFO - Inserted up to row 4760000 in sales
+2026-05-30 13:01:59,171 - INFO - Inserted up to row 4780000 in sales
+2026-05-30 13:02:05,272 - INFO - Inserted up to row 4800000 in sales
+2026-05-30 13:02:11,388 - INFO - Inserted up to row 4820000 in sales
+2026-05-30 13:02:17,390 - INFO - Inserted up to row 4840000 in sales
+2026-05-30 13:02:23,680 - INFO - Inserted up to row 4860000 in sales
+2026-05-30 13:02:29,745 - INFO - Inserted up to row 4880000 in sales
+2026-05-30 13:02:35,777 - INFO - Inserted up to row 4900000 in sales
+2026-05-30 13:02:41,918 - INFO - Inserted up to row 4920000 in sales
+2026-05-30 13:02:48,073 - INFO - Inserted up to row 4940000 in sales
+2026-05-30 13:02:54,120 - INFO - Inserted up to row 4960000 in sales
+2026-05-30 13:03:00,260 - INFO - Inserted up to row 4980000 in sales
+2026-05-30 13:03:06,353 - INFO - Inserted up to row 5000000 in sales
+2026-05-30 13:03:12,535 - INFO - Inserted up to row 5020000 in sales
+2026-05-30 13:03:18,645 - INFO - Inserted up to row 5040000 in sales
+2026-05-30 13:03:24,678 - INFO - Inserted up to row 5060000 in sales
+2026-05-30 13:03:30,832 - INFO - Inserted up to row 5080000 in sales
+2026-05-30 13:03:36,986 - INFO - Inserted up to row 5100000 in sales
+2026-05-30 13:03:42,991 - INFO - Inserted up to row 5120000 in sales
+2026-05-30 13:03:49,203 - INFO - Inserted up to row 5140000 in sales
+2026-05-30 13:03:55,581 - INFO - Inserted up to row 5160000 in sales
+2026-05-30 13:04:02,056 - INFO - Inserted up to row 5180000 in sales
+2026-05-30 13:04:09,596 - INFO - Inserted up to row 5200000 in sales
+2026-05-30 13:04:16,041 - INFO - Inserted up to row 5220000 in sales
+2026-05-30 13:04:22,458 - INFO - Inserted up to row 5240000 in sales
+2026-05-30 13:04:28,971 - INFO - Inserted up to row 5260000 in sales
+2026-05-30 13:04:35,483 - INFO - Inserted up to row 5280000 in sales
+2026-05-30 13:04:41,786 - INFO - Inserted up to row 5300000 in sales
+2026-05-30 13:04:48,033 - INFO - Inserted up to row 5320000 in sales
+2026-05-30 13:04:54,303 - INFO - Inserted up to row 5340000 in sales
+2026-05-30 13:05:00,711 - INFO - Inserted up to row 5360000 in sales
+2026-05-30 13:05:08,333 - INFO - Inserted up to row 5380000 in sales
+2026-05-30 13:05:14,412 - INFO - Inserted up to row 5400000 in sales
+2026-05-30 13:05:20,633 - INFO - Inserted up to row 5420000 in sales
+2026-05-30 13:05:26,717 - INFO - Inserted up to row 5440000 in sales
+2026-05-30 13:05:32,908 - INFO - Inserted up to row 5460000 in sales
+2026-05-30 13:05:39,053 - INFO - Inserted up to row 5480000 in sales
+2026-05-30 13:05:45,017 - INFO - Inserted up to row 5500000 in sales
+2026-05-30 13:05:51,225 - INFO - Inserted up to row 5520000 in sales
+2026-05-30 13:05:57,441 - INFO - Inserted up to row 5540000 in sales
+2026-05-30 13:06:03,821 - INFO - Inserted up to row 5560000 in sales
+2026-05-30 13:06:10,379 - INFO - Inserted up to row 5580000 in sales
+2026-05-30 13:06:16,711 - INFO - Inserted up to row 5600000 in sales
+2026-05-30 13:06:23,070 - INFO - Inserted up to row 5620000 in sales
+2026-05-30 13:06:29,196 - INFO - Inserted up to row 5640000 in sales
+2026-05-30 13:06:35,486 - INFO - Inserted up to row 5660000 in sales
+2026-05-30 13:06:41,506 - INFO - Inserted up to row 5680000 in sales
+2026-05-30 13:06:47,675 - INFO - Inserted up to row 5700000 in sales
+2026-05-30 13:06:53,798 - INFO - Inserted up to row 5720000 in sales
+2026-05-30 13:06:59,907 - INFO - Inserted up to row 5740000 in sales
+2026-05-30 13:07:06,062 - INFO - Inserted up to row 5760000 in sales
+2026-05-30 13:07:12,056 - INFO - Inserted up to row 5780000 in sales
+2026-05-30 13:07:18,307 - INFO - Inserted up to row 5800000 in sales
+2026-05-30 13:07:24,251 - INFO - Inserted up to row 5820000 in sales
+2026-05-30 13:07:30,526 - INFO - Inserted up to row 5840000 in sales
+2026-05-30 13:07:36,517 - INFO - Inserted up to row 5860000 in sales
+2026-05-30 13:07:42,638 - INFO - Inserted up to row 5880000 in sales
+2026-05-30 13:07:48,748 - INFO - Inserted up to row 5900000 in sales
+2026-05-30 13:07:54,707 - INFO - Inserted up to row 5920000 in sales
+2026-05-30 13:08:01,915 - INFO - Inserted up to row 5940000 in sales
+2026-05-30 13:08:07,969 - INFO - Inserted up to row 5960000 in sales
+2026-05-30 13:08:14,171 - INFO - Inserted up to row 5980000 in sales
+2026-05-30 13:08:20,338 - INFO - Inserted up to row 6000000 in sales
+2026-05-30 13:08:26,345 - INFO - Inserted up to row 6020000 in sales
+2026-05-30 13:08:32,512 - INFO - Inserted up to row 6040000 in sales
+2026-05-30 13:08:38,635 - INFO - Inserted up to row 6060000 in sales
+2026-05-30 13:08:44,892 - INFO - Inserted up to row 6080000 in sales
+2026-05-30 13:08:50,914 - INFO - Inserted up to row 6100000 in sales
+2026-05-30 13:08:57,201 - INFO - Inserted up to row 6120000 in sales
+2026-05-30 13:09:03,224 - INFO - Inserted up to row 6140000 in sales
+2026-05-30 13:09:09,195 - INFO - Inserted up to row 6160000 in sales
+2026-05-30 13:09:15,233 - INFO - Inserted up to row 6180000 in sales
+2026-05-30 13:09:21,382 - INFO - Inserted up to row 6200000 in sales
+2026-05-30 13:09:27,595 - INFO - Inserted up to row 6220000 in sales
+2026-05-30 13:09:33,787 - INFO - Inserted up to row 6240000 in sales
+2026-05-30 13:09:40,084 - INFO - Inserted up to row 6260000 in sales
+2026-05-30 13:09:46,277 - INFO - Inserted up to row 6280000 in sales
+2026-05-30 13:09:52,459 - INFO - Inserted up to row 6300000 in sales
+2026-05-30 13:09:58,877 - INFO - Inserted up to row 6320000 in sales
+2026-05-30 13:10:04,922 - INFO - Inserted up to row 6340000 in sales
+2026-05-30 13:10:10,983 - INFO - Inserted up to row 6360000 in sales
+2026-05-30 13:10:17,036 - INFO - Inserted up to row 6380000 in sales
+2026-05-30 13:10:23,111 - INFO - Inserted up to row 6400000 in sales
+2026-05-30 13:10:29,130 - INFO - Inserted up to row 6420000 in sales
+2026-05-30 13:10:35,143 - INFO - Inserted up to row 6440000 in sales
+2026-05-30 13:10:41,273 - INFO - Inserted up to row 6460000 in sales
+2026-05-30 13:10:47,384 - INFO - Inserted up to row 6480000 in sales
+2026-05-30 13:10:53,826 - INFO - Inserted up to row 6500000 in sales
+2026-05-30 13:10:59,878 - INFO - Inserted up to row 6520000 in sales
+2026-05-30 13:11:06,077 - INFO - Inserted up to row 6540000 in sales
+2026-05-30 13:11:13,373 - INFO - Inserted up to row 6560000 in sales
+2026-05-30 13:11:19,786 - INFO - Inserted up to row 6580000 in sales
+2026-05-30 13:11:25,720 - INFO - Inserted up to row 6600000 in sales
+2026-05-30 13:11:31,788 - INFO - Inserted up to row 6620000 in sales
+2026-05-30 13:11:37,755 - INFO - Inserted up to row 6640000 in sales
+2026-05-30 13:11:43,922 - INFO - Inserted up to row 6660000 in sales
+2026-05-30 13:11:50,074 - INFO - Inserted up to row 6680000 in sales
+2026-05-30 13:11:56,119 - INFO - Inserted up to row 6700000 in sales
+2026-05-30 13:12:02,193 - INFO - Inserted up to row 6720000 in sales
+2026-05-30 13:12:08,128 - INFO - Inserted up to row 6740000 in sales
+2026-05-30 13:12:14,329 - INFO - Inserted up to row 6760000 in sales
+2026-05-30 13:12:20,311 - INFO - Inserted up to row 6780000 in sales
+2026-05-30 13:12:26,349 - INFO - Inserted up to row 6800000 in sales
+2026-05-30 13:12:32,422 - INFO - Inserted up to row 6820000 in sales
+2026-05-30 13:12:38,688 - INFO - Inserted up to row 6840000 in sales
+2026-05-30 13:12:44,757 - INFO - Inserted up to row 6860000 in sales
+2026-05-30 13:12:51,343 - INFO - Inserted up to row 6880000 in sales
+2026-05-30 13:12:57,687 - INFO - Inserted up to row 6900000 in sales
+2026-05-30 13:13:03,635 - INFO - Inserted up to row 6920000 in sales
+2026-05-30 13:13:09,625 - INFO - Inserted up to row 6940000 in sales
+2026-05-30 13:13:15,737 - INFO - Inserted up to row 6960000 in sales
+2026-05-30 13:13:21,691 - INFO - Inserted up to row 6980000 in sales
+2026-05-30 13:13:27,726 - INFO - Inserted up to row 7000000 in sales
+2026-05-30 13:13:33,768 - INFO - Inserted up to row 7020000 in sales
+2026-05-30 13:13:40,023 - INFO - Inserted up to row 7040000 in sales
+2026-05-30 13:13:46,252 - INFO - Inserted up to row 7060000 in sales
+2026-05-30 13:13:53,671 - INFO - Inserted up to row 7080000 in sales
+2026-05-30 13:13:59,907 - INFO - Inserted up to row 7100000 in sales
+2026-05-30 13:14:06,162 - INFO - Inserted up to row 7120000 in sales
+2026-05-30 13:14:12,431 - INFO - Inserted up to row 7140000 in sales
+2026-05-30 13:14:18,559 - INFO - Inserted up to row 7160000 in sales
+2026-05-30 13:14:24,733 - INFO - Inserted up to row 7180000 in sales
+2026-05-30 13:14:30,783 - INFO - Inserted up to row 7200000 in sales
+2026-05-30 13:14:36,840 - INFO - Inserted up to row 7220000 in sales
+2026-05-30 13:14:43,005 - INFO - Inserted up to row 7240000 in sales
+2026-05-30 13:14:49,033 - INFO - Inserted up to row 7260000 in sales
+2026-05-30 13:14:55,129 - INFO - Inserted up to row 7280000 in sales
+2026-05-30 13:15:01,339 - INFO - Inserted up to row 7300000 in sales
+2026-05-30 13:15:07,387 - INFO - Inserted up to row 7320000 in sales
+2026-05-30 13:15:13,503 - INFO - Inserted up to row 7340000 in sales
+2026-05-30 13:15:19,640 - INFO - Inserted up to row 7360000 in sales
+2026-05-30 13:15:25,947 - INFO - Inserted up to row 7380000 in sales
+2026-05-30 13:15:31,925 - INFO - Inserted up to row 7400000 in sales
+2026-05-30 13:15:37,930 - INFO - Inserted up to row 7420000 in sales
+2026-05-30 13:15:44,112 - INFO - Inserted up to row 7440000 in sales
+2026-05-30 13:15:51,184 - INFO - Inserted up to row 7460000 in sales
+2026-05-30 13:15:57,391 - INFO - Inserted up to row 7480000 in sales
+2026-05-30 13:16:03,525 - INFO - Inserted up to row 7500000 in sales
+2026-05-30 13:16:09,573 - INFO - Inserted up to row 7520000 in sales
+2026-05-30 13:16:15,707 - INFO - Inserted up to row 7540000 in sales
+2026-05-30 13:16:21,695 - INFO - Inserted up to row 7560000 in sales
+2026-05-30 13:16:27,762 - INFO - Inserted up to row 7580000 in sales
+2026-05-30 13:16:33,869 - INFO - Inserted up to row 7600000 in sales
+2026-05-30 13:16:39,956 - INFO - Inserted up to row 7620000 in sales
+2026-05-30 13:16:46,112 - INFO - Inserted up to row 7640000 in sales
+2026-05-30 13:16:52,528 - INFO - Inserted up to row 7660000 in sales
+2026-05-30 13:16:58,690 - INFO - Inserted up to row 7680000 in sales
+2026-05-30 13:17:04,696 - INFO - Inserted up to row 7700000 in sales
+2026-05-30 13:17:10,957 - INFO - Inserted up to row 7720000 in sales
+2026-05-30 13:17:17,206 - INFO - Inserted up to row 7740000 in sales
+2026-05-30 13:17:23,221 - INFO - Inserted up to row 7760000 in sales
+2026-05-30 13:17:29,489 - INFO - Inserted up to row 7780000 in sales
+2026-05-30 13:17:35,573 - INFO - Inserted up to row 7800000 in sales
+2026-05-30 13:17:42,926 - INFO - Inserted up to row 7820000 in sales
+2026-05-30 13:17:49,005 - INFO - Inserted up to row 7840000 in sales
+2026-05-30 13:17:55,114 - INFO - Inserted up to row 7860000 in sales
+2026-05-30 13:18:01,080 - INFO - Inserted up to row 7880000 in sales
+2026-05-30 13:18:07,127 - INFO - Inserted up to row 7900000 in sales
+2026-05-30 13:18:13,189 - INFO - Inserted up to row 7920000 in sales
+2026-05-30 13:18:19,849 - INFO - Inserted up to row 7940000 in sales
+2026-05-30 13:18:25,848 - INFO - Inserted up to row 7960000 in sales
+2026-05-30 13:18:31,803 - INFO - Inserted up to row 7980000 in sales
+2026-05-30 13:18:37,822 - INFO - Inserted up to row 8000000 in sales
+2026-05-30 13:18:44,112 - INFO - Inserted up to row 8020000 in sales
+2026-05-30 13:18:50,136 - INFO - Inserted up to row 8040000 in sales
+2026-05-30 13:18:56,338 - INFO - Inserted up to row 8060000 in sales
+2026-05-30 13:19:02,651 - INFO - Inserted up to row 8080000 in sales
+2026-05-30 13:19:08,602 - INFO - Inserted up to row 8100000 in sales
+2026-05-30 13:19:14,629 - INFO - Inserted up to row 8120000 in sales
+2026-05-30 13:19:20,741 - INFO - Inserted up to row 8140000 in sales
+2026-05-30 13:19:26,775 - INFO - Inserted up to row 8160000 in sales
+2026-05-30 13:19:32,818 - INFO - Inserted up to row 8180000 in sales
+2026-05-30 13:19:38,833 - INFO - Inserted up to row 8200000 in sales
+2026-05-30 13:19:44,806 - INFO - Inserted up to row 8220000 in sales
+2026-05-30 13:19:51,023 - INFO - Inserted up to row 8240000 in sales
+2026-05-30 13:19:56,992 - INFO - Inserted up to row 8260000 in sales
+2026-05-30 13:20:02,981 - INFO - Inserted up to row 8280000 in sales
+2026-05-30 13:20:09,084 - INFO - Inserted up to row 8300000 in sales
+2026-05-30 13:20:15,171 - INFO - Inserted up to row 8320000 in sales
+2026-05-30 13:20:21,161 - INFO - Inserted up to row 8340000 in sales
+2026-05-30 13:20:28,164 - INFO - Inserted up to row 8360000 in sales
+2026-05-30 13:20:34,143 - INFO - Inserted up to row 8380000 in sales
+2026-05-30 13:20:40,099 - INFO - Inserted up to row 8400000 in sales
+2026-05-30 13:20:46,187 - INFO - Inserted up to row 8420000 in sales
+2026-05-30 13:20:52,245 - INFO - Inserted up to row 8440000 in sales
+2026-05-30 13:20:58,517 - INFO - Inserted up to row 8460000 in sales
+2026-05-30 13:21:04,677 - INFO - Inserted up to row 8480000 in sales
+2026-05-30 13:21:10,981 - INFO - Inserted up to row 8500000 in sales
+2026-05-30 13:21:17,120 - INFO - Inserted up to row 8520000 in sales
+2026-05-30 13:21:23,084 - INFO - Inserted up to row 8540000 in sales
+2026-05-30 13:21:29,157 - INFO - Inserted up to row 8560000 in sales
+2026-05-30 13:21:35,220 - INFO - Inserted up to row 8580000 in sales
+2026-05-30 13:21:41,171 - INFO - Inserted up to row 8600000 in sales
+2026-05-30 13:21:47,227 - INFO - Inserted up to row 8620000 in sales
+2026-05-30 13:21:53,235 - INFO - Inserted up to row 8640000 in sales
+2026-05-30 13:21:59,382 - INFO - Inserted up to row 8660000 in sales
+2026-05-30 13:22:06,746 - INFO - Inserted up to row 8680000 in sales
+2026-05-30 13:22:12,737 - INFO - Inserted up to row 8700000 in sales
+2026-05-30 13:22:18,785 - INFO - Inserted up to row 8720000 in sales
+2026-05-30 13:22:24,694 - INFO - Inserted up to row 8740000 in sales
+2026-05-30 13:22:30,864 - INFO - Inserted up to row 8760000 in sales
+2026-05-30 13:22:36,841 - INFO - Inserted up to row 8780000 in sales
+2026-05-30 13:22:42,793 - INFO - Inserted up to row 8800000 in sales
+2026-05-30 13:22:48,806 - INFO - Inserted up to row 8820000 in sales
+2026-05-30 13:22:55,103 - INFO - Inserted up to row 8840000 in sales
+2026-05-30 13:23:01,449 - INFO - Inserted up to row 8860000 in sales
+2026-05-30 13:23:07,643 - INFO - Inserted up to row 8880000 in sales
+2026-05-30 13:23:13,916 - INFO - Inserted up to row 8900000 in sales
+2026-05-30 13:23:20,077 - INFO - Inserted up to row 8920000 in sales
+2026-05-30 13:23:26,804 - INFO - Inserted up to row 8940000 in sales
+2026-05-30 13:23:33,152 - INFO - Inserted up to row 8960000 in sales
+2026-05-30 13:23:39,112 - INFO - Inserted up to row 8980000 in sales
+2026-05-30 13:23:45,102 - INFO - Inserted up to row 9000000 in sales
+2026-05-30 13:23:52,512 - INFO - Inserted up to row 9020000 in sales
+2026-05-30 13:23:58,771 - INFO - Inserted up to row 9040000 in sales
+2026-05-30 13:24:04,864 - INFO - Inserted up to row 9060000 in sales
+2026-05-30 13:24:10,919 - INFO - Inserted up to row 9080000 in sales
+2026-05-30 13:24:17,015 - INFO - Inserted up to row 9100000 in sales
+2026-05-30 13:24:23,094 - INFO - Inserted up to row 9120000 in sales
+2026-05-30 13:24:29,009 - INFO - Inserted up to row 9140000 in sales
+2026-05-30 13:24:35,181 - INFO - Inserted up to row 9160000 in sales
+2026-05-30 13:24:41,147 - INFO - Inserted up to row 9180000 in sales
+2026-05-30 13:24:47,112 - INFO - Inserted up to row 9200000 in sales
+2026-05-30 13:24:53,290 - INFO - Inserted up to row 9220000 in sales
+2026-05-30 13:24:59,814 - INFO - Inserted up to row 9240000 in sales
+2026-05-30 13:25:06,011 - INFO - Inserted up to row 9260000 in sales
+2026-05-30 13:25:12,158 - INFO - Inserted up to row 9280000 in sales
+2026-05-30 13:25:18,109 - INFO - Inserted up to row 9300000 in sales
+2026-05-30 13:25:24,103 - INFO - Inserted up to row 9320000 in sales
+2026-05-30 13:25:30,273 - INFO - Inserted up to row 9340000 in sales
+2026-05-30 13:25:36,595 - INFO - Inserted up to row 9360000 in sales
+2026-05-30 13:25:42,779 - INFO - Inserted up to row 9380000 in sales
+2026-05-30 13:25:48,728 - INFO - Inserted up to row 9400000 in sales
+2026-05-30 13:25:54,925 - INFO - Inserted up to row 9420000 in sales
+2026-05-30 13:26:00,927 - INFO - Inserted up to row 9440000 in sales
+2026-05-30 13:26:06,865 - INFO - Inserted up to row 9460000 in sales
+2026-05-30 13:26:12,995 - INFO - Inserted up to row 9480000 in sales
+2026-05-30 13:26:20,117 - INFO - Inserted up to row 9500000 in sales
+2026-05-30 13:26:26,224 - INFO - Inserted up to row 9520000 in sales
+2026-05-30 13:26:32,233 - INFO - Inserted up to row 9540000 in sales
+2026-05-30 13:26:38,296 - INFO - Inserted up to row 9560000 in sales
+2026-05-30 13:26:44,403 - INFO - Inserted up to row 9580000 in sales
+2026-05-30 13:26:50,449 - INFO - Inserted up to row 9600000 in sales
+2026-05-30 13:26:56,720 - INFO - Inserted up to row 9620000 in sales
+2026-05-30 13:27:03,137 - INFO - Inserted up to row 9640000 in sales
+2026-05-30 13:27:09,444 - INFO - Inserted up to row 9660000 in sales
+2026-05-30 13:27:15,440 - INFO - Inserted up to row 9680000 in sales
+2026-05-30 13:27:21,432 - INFO - Inserted up to row 9700000 in sales
+2026-05-30 13:27:27,474 - INFO - Inserted up to row 9720000 in sales
+2026-05-30 13:27:33,720 - INFO - Inserted up to row 9740000 in sales
+2026-05-30 13:27:39,735 - INFO - Inserted up to row 9760000 in sales
+2026-05-30 13:27:45,731 - INFO - Inserted up to row 9780000 in sales
+2026-05-30 13:27:51,974 - INFO - Inserted up to row 9800000 in sales
+2026-05-30 13:27:57,929 - INFO - Inserted up to row 9820000 in sales
+2026-05-30 13:28:03,918 - INFO - Inserted up to row 9840000 in sales
+2026-05-30 13:28:10,081 - INFO - Inserted up to row 9860000 in sales
+2026-05-30 13:28:16,171 - INFO - Inserted up to row 9880000 in sales
+2026-05-30 13:28:22,130 - INFO - Inserted up to row 9900000 in sales
+2026-05-30 13:28:28,374 - INFO - Inserted up to row 9920000 in sales
+2026-05-30 13:28:34,339 - INFO - Inserted up to row 9940000 in sales
+2026-05-30 13:28:40,614 - INFO - Inserted up to row 9960000 in sales
+2026-05-30 13:28:47,592 - INFO - Inserted up to row 9980000 in sales
+2026-05-30 13:28:53,564 - INFO - Inserted up to row 10000000 in sales
+2026-05-30 13:28:59,711 - INFO - Inserted up to row 10020000 in sales
+2026-05-30 13:29:06,156 - INFO - Inserted up to row 10040000 in sales
+2026-05-30 13:29:12,316 - INFO - Inserted up to row 10060000 in sales
+2026-05-30 13:29:18,394 - INFO - Inserted up to row 10080000 in sales
+2026-05-30 13:29:24,500 - INFO - Inserted up to row 10100000 in sales
+2026-05-30 13:29:31,594 - INFO - Inserted up to row 10120000 in sales
+2026-05-30 13:29:37,834 - INFO - Inserted up to row 10140000 in sales
+2026-05-30 13:29:43,914 - INFO - Inserted up to row 10160000 in sales
+2026-05-30 13:29:49,861 - INFO - Inserted up to row 10180000 in sales
+2026-05-30 13:29:56,012 - INFO - Inserted up to row 10200000 in sales
+2026-05-30 13:30:02,133 - INFO - Inserted up to row 10220000 in sales
+2026-05-30 13:30:08,609 - INFO - Inserted up to row 10240000 in sales
+2026-05-30 13:30:16,658 - INFO - Inserted up to row 10260000 in sales
+2026-05-30 13:30:23,917 - INFO - Inserted up to row 10280000 in sales
+2026-05-30 13:30:30,928 - INFO - Inserted up to row 10300000 in sales
+2026-05-30 13:30:37,497 - INFO - Inserted up to row 10320000 in sales
+2026-05-30 13:30:44,154 - INFO - Inserted up to row 10340000 in sales
+2026-05-30 13:30:50,388 - INFO - Inserted up to row 10360000 in sales
+2026-05-30 13:30:56,892 - INFO - Inserted up to row 10380000 in sales
+2026-05-30 13:31:03,511 - INFO - Inserted up to row 10400000 in sales
+2026-05-30 13:31:09,703 - INFO - Inserted up to row 10420000 in sales
+2026-05-30 13:31:15,795 - INFO - Inserted up to row 10440000 in sales
+2026-05-30 13:31:21,980 - INFO - Inserted up to row 10460000 in sales
+2026-05-30 13:31:28,059 - INFO - Inserted up to row 10480000 in sales
+2026-05-30 13:31:34,139 - INFO - Inserted up to row 10500000 in sales
+2026-05-30 13:31:40,411 - INFO - Inserted up to row 10520000 in sales
+2026-05-30 13:31:46,535 - INFO - Inserted up to row 10540000 in sales
+2026-05-30 13:31:52,599 - INFO - Inserted up to row 10560000 in sales
+2026-05-30 13:31:58,758 - INFO - Inserted up to row 10580000 in sales
+2026-05-30 13:32:04,866 - INFO - Inserted up to row 10600000 in sales
+2026-05-30 13:32:10,851 - INFO - Inserted up to row 10620000 in sales
+2026-05-30 13:32:16,875 - INFO - Inserted up to row 10640000 in sales
+2026-05-30 13:32:23,077 - INFO - Inserted up to row 10660000 in sales
+2026-05-30 13:32:29,147 - INFO - Inserted up to row 10680000 in sales
+2026-05-30 13:32:35,375 - INFO - Inserted up to row 10700000 in sales
+2026-05-30 13:32:41,392 - INFO - Inserted up to row 10720000 in sales
+2026-05-30 13:32:47,411 - INFO - Inserted up to row 10740000 in sales
+2026-05-30 13:32:53,686 - INFO - Inserted up to row 10760000 in sales
+2026-05-30 13:32:59,772 - INFO - Inserted up to row 10780000 in sales
+2026-05-30 13:33:05,918 - INFO - Inserted up to row 10800000 in sales
+2026-05-30 13:33:12,120 - INFO - Inserted up to row 10820000 in sales
+2026-05-30 13:33:18,391 - INFO - Inserted up to row 10840000 in sales
+2026-05-30 13:33:25,066 - INFO - Inserted up to row 10860000 in sales
+2026-05-30 13:33:31,162 - INFO - Inserted up to row 10880000 in sales
+2026-05-30 13:33:37,293 - INFO - Inserted up to row 10900000 in sales
+2026-05-30 13:33:43,833 - INFO - Inserted up to row 10920000 in sales
+2026-05-30 13:33:50,051 - INFO - Inserted up to row 10940000 in sales
+2026-05-30 13:33:56,137 - INFO - Inserted up to row 10960000 in sales
+2026-05-30 13:34:02,146 - INFO - Inserted up to row 10980000 in sales
+2026-05-30 13:34:08,293 - INFO - Inserted up to row 11000000 in sales
+2026-05-30 13:34:14,387 - INFO - Inserted up to row 11020000 in sales
+2026-05-30 13:34:20,420 - INFO - Inserted up to row 11040000 in sales
+2026-05-30 13:34:26,681 - INFO - Inserted up to row 11060000 in sales
+2026-05-30 13:34:32,758 - INFO - Inserted up to row 11080000 in sales
+2026-05-30 13:34:39,001 - INFO - Inserted up to row 11100000 in sales
+2026-05-30 13:34:45,046 - INFO - Inserted up to row 11120000 in sales
+2026-05-30 13:34:51,115 - INFO - Inserted up to row 11140000 in sales
+2026-05-30 13:34:57,243 - INFO - Inserted up to row 11160000 in sales
+2026-05-30 13:35:03,422 - INFO - Inserted up to row 11180000 in sales
+2026-05-30 13:35:09,727 - INFO - Inserted up to row 11200000 in sales
+2026-05-30 13:35:16,134 - INFO - Inserted up to row 11220000 in sales
+2026-05-30 13:35:22,139 - INFO - Inserted up to row 11240000 in sales
+2026-05-30 13:35:28,126 - INFO - Inserted up to row 11260000 in sales
+2026-05-30 13:35:34,253 - INFO - Inserted up to row 11280000 in sales
+2026-05-30 13:35:40,410 - INFO - Inserted up to row 11300000 in sales
+2026-05-30 13:35:46,378 - INFO - Inserted up to row 11320000 in sales
+2026-05-30 13:35:52,544 - INFO - Inserted up to row 11340000 in sales
+2026-05-30 13:35:58,598 - INFO - Inserted up to row 11360000 in sales
+2026-05-30 13:36:05,829 - INFO - Inserted up to row 11380000 in sales
+2026-05-30 13:36:11,876 - INFO - Inserted up to row 11400000 in sales
+2026-05-30 13:36:17,865 - INFO - Inserted up to row 11420000 in sales
+2026-05-30 13:36:24,020 - INFO - Inserted up to row 11440000 in sales
+2026-05-30 13:36:30,278 - INFO - Inserted up to row 11460000 in sales
+2026-05-30 13:36:36,311 - INFO - Inserted up to row 11480000 in sales
+2026-05-30 13:36:42,345 - INFO - Inserted up to row 11500000 in sales
+2026-05-30 13:36:48,604 - INFO - Inserted up to row 11520000 in sales
+2026-05-30 13:36:54,920 - INFO - Inserted up to row 11540000 in sales
+2026-05-30 13:37:01,451 - INFO - Inserted up to row 11560000 in sales
+2026-05-30 13:37:07,783 - INFO - Inserted up to row 11580000 in sales
+2026-05-30 13:37:14,950 - INFO - Inserted up to row 11600000 in sales
+2026-05-30 13:37:21,103 - INFO - Inserted up to row 11620000 in sales
+2026-05-30 13:37:27,283 - INFO - Inserted up to row 11640000 in sales
+2026-05-30 13:37:33,428 - INFO - Inserted up to row 11660000 in sales
+2026-05-30 13:37:39,682 - INFO - Inserted up to row 11680000 in sales
+2026-05-30 13:37:45,739 - INFO - Inserted up to row 11700000 in sales
+2026-05-30 13:37:51,807 - INFO - Inserted up to row 11720000 in sales
+2026-05-30 13:37:57,943 - INFO - Inserted up to row 11740000 in sales
+2026-05-30 13:38:04,207 - INFO - Inserted up to row 11760000 in sales
+2026-05-30 13:38:10,228 - INFO - Inserted up to row 11780000 in sales
+2026-05-30 13:38:16,550 - INFO - Inserted up to row 11800000 in sales
+2026-05-30 13:38:22,615 - INFO - Inserted up to row 11820000 in sales
+2026-05-30 13:38:28,674 - INFO - Inserted up to row 11840000 in sales
+2026-05-30 13:38:34,832 - INFO - Inserted up to row 11860000 in sales
+2026-05-30 13:38:41,056 - INFO - Inserted up to row 11880000 in sales
+2026-05-30 13:38:47,298 - INFO - Inserted up to row 11900000 in sales
+2026-05-30 13:38:53,355 - INFO - Inserted up to row 11920000 in sales
+2026-05-30 13:38:59,597 - INFO - Inserted up to row 11940000 in sales
+2026-05-30 13:39:05,914 - INFO - Inserted up to row 11960000 in sales
+2026-05-30 13:39:11,968 - INFO - Inserted up to row 11980000 in sales
+2026-05-30 13:39:18,088 - INFO - Inserted up to row 12000000 in sales
+2026-05-30 13:39:24,248 - INFO - Inserted up to row 12020000 in sales
+2026-05-30 13:39:30,313 - INFO - Inserted up to row 12040000 in sales
+2026-05-30 13:39:36,417 - INFO - Inserted up to row 12060000 in sales
+2026-05-30 13:39:42,673 - INFO - Inserted up to row 12080000 in sales
+2026-05-30 13:39:49,025 - INFO - Inserted up to row 12100000 in sales
+2026-05-30 13:39:55,095 - INFO - Inserted up to row 12120000 in sales
+2026-05-30 13:40:01,419 - INFO - Inserted up to row 12140000 in sales
+2026-05-30 13:40:07,564 - INFO - Inserted up to row 12160000 in sales
+2026-05-30 13:40:13,606 - INFO - Inserted up to row 12180000 in sales
+2026-05-30 13:40:19,814 - INFO - Inserted up to row 12200000 in sales
+2026-05-30 13:40:25,891 - INFO - Inserted up to row 12220000 in sales
+2026-05-30 13:40:32,084 - INFO - Inserted up to row 12240000 in sales
+2026-05-30 13:40:38,563 - INFO - Inserted up to row 12260000 in sales
+2026-05-30 13:40:44,961 - INFO - Inserted up to row 12280000 in sales
+2026-05-30 13:40:51,773 - INFO - Inserted up to row 12300000 in sales
+2026-05-30 13:40:58,260 - INFO - Inserted up to row 12320000 in sales
+2026-05-30 13:41:05,137 - INFO - Inserted up to row 12340000 in sales
+2026-05-30 13:41:12,010 - INFO - Inserted up to row 12360000 in sales
+2026-05-30 13:41:18,576 - INFO - Inserted up to row 12380000 in sales
+2026-05-30 13:41:25,126 - INFO - Inserted up to row 12400000 in sales
+2026-05-30 13:41:31,483 - INFO - Inserted up to row 12420000 in sales
+2026-05-30 13:41:37,572 - INFO - Inserted up to row 12440000 in sales
+2026-05-30 13:41:44,027 - INFO - Inserted up to row 12460000 in sales
+2026-05-30 13:41:50,206 - INFO - Inserted up to row 12480000 in sales
+2026-05-30 13:41:56,551 - INFO - Inserted up to row 12500000 in sales
+2026-05-30 13:42:02,919 - INFO - Inserted up to row 12520000 in sales
+2026-05-30 13:42:09,184 - INFO - Inserted up to row 12540000 in sales
+2026-05-30 13:42:15,486 - INFO - Inserted up to row 12560000 in sales
+2026-05-30 13:42:21,765 - INFO - Inserted up to row 12580000 in sales
+2026-05-30 13:42:28,275 - INFO - Inserted up to row 12600000 in sales
+2026-05-30 13:42:34,586 - INFO - Inserted up to row 12620000 in sales
+2026-05-30 13:42:40,846 - INFO - Inserted up to row 12640000 in sales
+2026-05-30 13:42:46,997 - INFO - Inserted up to row 12660000 in sales
+2026-05-30 13:42:53,232 - INFO - Inserted up to row 12680000 in sales
+2026-05-30 13:42:59,344 - INFO - Inserted up to row 12700000 in sales
+2026-05-30 13:43:05,612 - INFO - Inserted up to row 12720000 in sales
+2026-05-30 13:43:11,833 - INFO - Inserted up to row 12740000 in sales
+2026-05-30 13:43:18,204 - INFO - Inserted up to row 12760000 in sales
+2026-05-30 13:43:24,346 - INFO - Inserted up to row 12780000 in sales
+2026-05-30 13:43:30,702 - INFO - Inserted up to row 12800000 in sales
+2026-05-30 13:43:38,044 - INFO - Inserted up to row 12820000 in sales
+2026-05-30 13:43:41,252 - INFO - Inserted up to row 12825363 in sales
+2026-05-30 13:43:42,759 - INFO - Completed insertion for table sales
+2026-05-30 13:55:25,978 - INFO - 
+-------------INSERTION COMPLETED --------------
+2026-05-30 13:55:25,978 - INFO - Total Time for insertion is 2.605915069580078e-05 minutes
+2026-05-30 13:56:12,324 - INFO - 
+-------------INSERTION COMPLETED --------------
+2026-05-30 13:56:12,324 - INFO - Total Time for insertion is 0.0 minutes
+2026-05-30 13:56:25,537 - INFO - 
+-------------INSERTION COMPLETED --------------
+2026-05-30 13:56:25,537 - INFO - Total Time for insertion is 0.0 minutes
+2026-05-31 09:25:33,889 - INFO - Inserted up to row 5543 in vendor_invoice
+2026-05-31 09:25:35,391 - INFO - Completed insertion for table vendor_invoice
